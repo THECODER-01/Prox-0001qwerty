@@ -1,0 +1,16 @@
+
+'thecoder-01_g-page': 'https://thecoder-01.github.io/QwertyHk0cw4AuI0bCQs5yoFvF0S08Rihj0wMb1Doa0RvHtb1L0JBM6W/',
+'thecoder-01_g-page': 'tc01-gpage',
+
+tc01-gpage: urlHandler(sjUrl/'https://thecoder-01.github.io/QwertyHk0c4AuIObC0s5yoFvF0508RihjOwMb1DoaORvHtbULOJBM6W/')),
+
+},
+{
+"name": "thecoder-01_g-page",
+"custom":
+"tc01-gpage",
+"img": "thecoder. svg"
+"description": "A forked github project web page made by THECODER-Ø1.",
+"credits": "THECODER-01, ubg42"
+}
+]

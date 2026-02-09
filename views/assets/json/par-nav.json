@@ -5,5 +5,13 @@
     "img": "truf.webp",
     "description": "Browse a list of games ported to the web, including Hollow Knight, FNAF, Ultrakill, Minecraft, Deltarune and more!",
     "credits": "truf"
+  },
+  {
+    "name": "thecoder-01_g-page",
+    "custom":"tc01gp",
+    "img": "thecoder.svg",
+    "description": "A forked github project web page made by THECODER-01.",
+    "credits": "THECODER-01, ubg42"
   }
 ]
+

@@ -542,6 +542,8 @@ const preparePage = async () => {
 
     tru: urlHandler(sjUrl('https://truffled.lol/g')),
 
+    tc01gp: urlHandler(sjUrl('https://thecoder-01.github.io/QwertyHk0cw4AuIObCQs5yoFvF0SO8RihjOwMb1DoaORvHtblLOJBM6W/')),
+
     prison: urlHandler(sjUrl('https://vimlark.itch.io/pick-up-prison')),
 
     speed: urlHandler(sjUrl('https://captain4lk.itch.io/what-the-road-brings')),
